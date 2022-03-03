@@ -1,0 +1,19 @@
+Celsius <-> Fahrenheit
+
+Create a new branch and check it out
+Create a new class named "TemperatureConversion"
+
+In your main method:
+    double temperatureInCelsius
+
+Write a method:
+    public static double celsiusToFahrenheit(double temperatureInCelsius)
+    in this method convert degrees Celsius into Fahrenheit (look up the formula online)
+
+In your main method:
+    call your conversion method
+    write to the console: "X degrees Celsius are Y degrees Fahrenheit"
+
+Bonus: write a second method that converts degrees Fahrenheit into Celsius!
+Merge your changes & check out what your partner did
+

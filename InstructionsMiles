@@ -1,0 +1,18 @@
+Miles <-> Kilometers
+
+Create a new branch and check it out
+Create a new class named "DistanceConversion"
+
+In your main method:
+    int kilometers
+
+Write a method:
+    public static double kilometersToMiles(int kilometers)
+    in this method convert a kilometer value into miles (look up the formula online)
+
+In your main method:
+    call your conversion method
+    write to the console: "X kilometers are Y miles"
+
+Bonus: write a second method that converts miles into kilometers!
+Merge your changes & check out what your partner did
