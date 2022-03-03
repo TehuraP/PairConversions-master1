@@ -2,8 +2,8 @@ package fh.campus02;
 
 public class DistanceConversion {
     public static void main(String[] args) {
-    double kilometers= kilometersToMiles(560);
-    double miles = milesToKilometers(45);
+    double kilometers= kilometersToMiles(3);
+    double miles = milesToKilometers(1.8641130000000001);
         System.out.println(kilometers);
         System.out.println(miles);
     }
